@@ -14,7 +14,7 @@ In the output you will find :
       - **`Train.py`** : The code that trains the model ResNet50 on The data provided
       - **`Test.py`** : The code that Tests the model and shows that it provides a 80 to 82% accuracy.
       -  **`app.py`** : The API Code that the application uses
-  * **`trash_class.apk`** : the flutter generated mobile application
+  * **`Trash Classifier.apk`** : the flutter generated mobile application
 
 And in Source you will Find : 
   * **`The flutter Project/code`** : This includes the pubsac.yaml for the libaries i have used as well as the main.dart file.
